@@ -8,8 +8,8 @@ function getUKTime() {
 getUKTime()
 
 function discountTicket(input) {
-  let discountedticket = input * .2
-  return input - discountedticket
+  let discounTedTicket = input * .2
+  return input - discounTedTicket
 }
 
 
